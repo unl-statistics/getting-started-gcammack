@@ -11,20 +11,29 @@
 
 - Load Packages …
 
+<!-- -->
+
+    Warning: package 'usethis' was built under R version 4.4.3
+    Warning: package 'git2r' was built under R version 4.4.3
+    Warning: package 'rstudioapi' was built under R version 4.4.3
+
 - Versions
 
 <!-- -->
 
-    Run the code chunk 'versions' at least once successfully.
+    Installations found:
+      < R version 4.4.1 (2024-06-14 ucrt) >
+      RStudio version: < 2026.1.0.392 >
+      < git version 2.43.0.windows.1 >
+    [1] 0
 
 - Connection to git
 
 <!-- -->
 
     Run the code chunk 'gitconnection' at least once successfully.
-    ✔ Setting active project to
-      "/Users/hofmann/Documents/Teaching/stat-assignments/Connecting-RStudio-and-Git-Github".
-    Project Path:  /Users/hofmann/Documents/Teaching/stat-assignments/Connecting-RStudio-and-Git-Github 
+    ✔ Setting active project to "C:/Users/gkcam/getting-started-gcammack".
+    Project Path:  C:/Users/gkcam/getting-started-gcammack 
     Git repository detected.
     GitHub Remote(s):
     [1] "origin"
